@@ -1,0 +1,6 @@
+Liste der Design Prinzipien der Objektorientierten Programmierung
+
+1. Identifiziere die Aspekte einer Anwendung, die sich verändern und separiere sie von denjenigen, die gleich bleiben.
+2. Programmiere auf eine Schnittstelle hin, nicht auf eine Implementierung
+3. Wiederverwendung sollte durch Komposition erreicht werden, nicht durch Vererbung.
+4. Die Kopplung zwischen Software-Elementen soll so gering wie möglich sein.
